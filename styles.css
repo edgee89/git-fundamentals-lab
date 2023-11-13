@@ -1,8 +1,8 @@
 :root {
   /* colours */
-  --background-color: rgb(255, 255, 255);
+  --background-color: rgb(255, 255, 255)
   --text-color: rgb(254, 251, 251), 0, 0);
-  --header-color: black;
+  --header-color: blue;
 
   /* typography */
   --font: monospace;
